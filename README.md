@@ -122,10 +122,6 @@ This project is licensed under the MIT License.
 
 ## ⭐ Show Some Love
 
-If you found this helpful, consider giving a ⭐ on [GitHub](https://github.com/your-username/pneumonia-covid-prediction)!
+If you found this helpful, consider giving a ⭐ on [GitHub](https://github.com/Mandara18/pneumonia-covid-prediction)!
 
 ```
-
----
-
-Let me know if you'd like me to generate any part of the code for you (`app.py`, `train.py`, or HTML template).
